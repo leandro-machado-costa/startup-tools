@@ -1,26 +1,16 @@
-# startup-tools
-A list of companies and products that provide products and services specifically useful to startups and bootstrappers. This is a replacement for the "Cool Tools" folder in my browser bookmarks. I'll continue to migrate things in. Eventually this should be a long list. What other information should we be tracking for each? I'm hoping with collaboration, I'll learn of many I've never heard of before.
+# Ferramentas para Startup
+Esta é uma  lista de empresas e produtos que fornecem produtos e serviços úteis para as startups. Irei atualizando pouco a pouco a lista. Acredito que ao longo do tempo esta lista irá ficar grande.  Ficarei feliz se alguém contribuir a esta lista.
 
-To suggest new additions or changes, please [open an issue](https://github.com/BrightCanopy/startup-tools/issues) or create a [pull request](https://github.com/BrightCanopy/startup-tools/compare). 
+Para sugerir novas adições ou alterações: [open an issue](https://github.com/lmc275/startup-tools/issues) ou criar um [pull request](https://github.com/lmc275/startup-tools/compare). 
 
- - [Amazon Web Services](https://aws.amazon.com) - The swiss army knife of cloud services. Does just about everything, but may not be the best tool for any one particular job.
- - [Clerky](https://www.clerky.com/) - Incorporation services with a very specific focus on startups which may eventually be VC funded.
- - [DigitalOcean](https://www.digitalocean.com) - Cloud hosting based on Docker droplets.
- - [Google Apps](https://www.google.com/work/apps/business) - Collaborative documents, spreadsheets, email and more. Especially good for MVP serveys and even simple MVPs.
- - [Groove](https://www.groovehq.com/) - Streamlined desk software with a scalable pricing model.
- - [Heroku](https://www.heroku.com) - Cloud hosting (Ruby  Java  Node.js  Python  PHP Clojure  Scala) with lifecycle management and many plug-ins.
- - [Keen IO](https://keen.io/) - Analytics backend as a service.
- - [Prose IO](http://prose.io) - An editor for github markdown (useful for MVPs)
- - [QuickMVP](https://quickmvp.com) - Integrated landing page and Google Ads for rapid idea validation.
- - [Slack](https://slack.com) - Team messaging, archiving and search with an automation api and bots.
- - [Stripe](https://stripe.com/) - Startup friendly payment processing with a powerful API.
- - [Zapier](https://zapier.com/) - Quick and easy API integration for stitching together MVPs or even production services.
-
-
-## Other Lists
-
-Helpful folks have pointed me to other lists already out there. Here are the ones I know about.
- - [HN Tools of The Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade) ~700 entries
- - [Steve Blank's List](http://steveblank.com/tools-and-blogs-for-entrepreneurs/) mostly information and groups 
- - [Inc's List](http://www.inc.com/jeff-haden/60-great-tools-and-resources-for-entrepreneurs-and-startups.html) ~30 entries
- - [PBWorks List](http://startuptools.pbworks.com/w/page/17974963/FrontPage) ~700 entries
+ - [Amazon Web Services](https://aws.amazon.com) - É o canivete suíço de serviços em nuvem. Faz quase tudo, mas pode não ser a melhor ferramenta para quem está começando sozinho.
+ - [Clerky](https://www.clerky.com/) - Serviços de incorporação com um foco em startups, pode ajudar muito seu financeiro.
+ - [DigitalOcean](https://www.digitalocean.com) - Hospedagem nas Nuvens com base Docker, vale a pena conferir.
+ - [Google Apps](https://www.google.com/work/apps/business) - Documentos colaborativos, planilhas, e-mail e muito mais.
+ - [Groove](https://www.groovehq.com/) - Help Desk simplificado, com um modelo de preços escalável.
+ - [Heroku](https://www.heroku.com) - Hospedagem nas Nuvens (Ruby  Java  Node.js  Python  PHP Clojure  Scala) com a gestão do ciclo de vida e muitos mas muitos plug-ins!
+ - [Keen IO](https://keen.io/) - Uma ferramenta bem interessante para analisar informações do seu Back end.
+ - [Prose IO](http://prose.io) - Um editor para fazer anotações no github (muito útil)
+ - [QuickMVP](https://quickmvp.com) - Ferramenta para criar paginas e poder validar idéias rapidamente,  Integrado e anúncios do Google.
+ - [Slack](https://slack.com) - Uma plataforma de comunicação que simplifica a conversa entre funcionários e com fornecedores. Com muitas APIs de integrações e robôs para mensagens automáticas 
+ - [Zapier](https://zapier.com/) - Integração rápida e fácil  a muitas APIs do mercado facilitando os serviços de produção.
