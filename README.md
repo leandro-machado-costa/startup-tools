@@ -1,5 +1,5 @@
 # Ferramentas para Startup
-Esta é uma  lista de empresas e produtos que fornecem produtos e serviços úteis para as startups. Irei atualizando pouco a pouco a lista. Acredito que ao longo do tempo esta lista irá ficar grande.  Ficarei feliz se alguém contribuir a esta lista.
+Esta é uma  lista de empresas e produtos que fornecem produtos e serviços úteis para suas startups. Irei atualizando pouco a pouco a lista. Acredito que ao longo do tempo esta lista irá ficar grande.  Ficarei feliz se alguém contribuir a esta lista.
 
 Para sugerir novas adições ou alterações: [open an issue](https://github.com/lmc275/startup-tools/issues) ou criar um [pull request](https://github.com/lmc275/startup-tools/compare). 
 
