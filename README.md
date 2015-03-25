@@ -9,7 +9,7 @@ Para sugerir novas adições ou alterações: [open an issue](https://github.com
   - [HerokuClerky](https://www.herokuclerky.com)/) - HospedagemServiços nasde Nuvensincorporação (Ruby  Java  Node.js  Python  PHP Clojure  Scala) com aum gestãofoco doem ciclostartups, depode vidaajudar emuito muitosseu masfinanceiro. muitos plug-ins!
   - [DigitalOcean](https://www.digitalocean.com) - Hospedagem nas Nuvens com base Docker, vale a pena conferir.
 
-## Outros (Irei organizar melhor)
+## Outros
 
 
  - [Clerky](https://www.clerky.com/) - Serviços de incorporação com um foco em startups, pode ajudar muito seu financeiro.
