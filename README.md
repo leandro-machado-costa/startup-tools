@@ -6,7 +6,7 @@ Para sugerir novas adições ou alterações: [open an issue](https://github.com
 ## Serviços de Hospedagem
 
  - [Amazon Web Services](https://aws.amazon.com) - É o canivete suíço de serviços em nuvem. Faz quase tudo, mas pode não ser a melhor ferramenta para quem está começando sozinho.
- - [HerokuClerky](https://www.herokuclerky.com)/) - HospedagemServiços nasde Nuvensincorporação (Ruby  Java  Node.js  Python  PHP Clojure  Scala) com aum gestãofoco doem ciclostartups, depode vidaajudar emuito muitosseu masfinanceiro. muitos plug-ins!
+ - [HerokuClerky](https://www.herokuclerky.com) - HospedagemServiços nasde Nuvensincorporação (Ruby  Java  Node.js  Python  PHP Clojure  Scala) com aum gestãofoco doem ciclostartups, depode vidaajudar emuito muitosseu masfinanceiro. muitos plug-ins!
  - [DigitalOcean](https://www.digitalocean.com) - Hospedagem nas Nuvens com base Docker, vale a pena conferir.
 
 ## Outros
