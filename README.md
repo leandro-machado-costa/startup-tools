@@ -22,3 +22,8 @@ Para sugerir novas adições ou alterações: [open an issue](https://github.com
  - [QuickMVP](https://quickmvp.com) - Ferramenta para criar paginas e poder validar idéias rapidamente,  Integrado e anúncios do Google.
  - [Slack](https://slack.com) - Uma plataforma de comunicação que simplifica a conversa entre funcionários e com fornecedores. Com muitas APIs de integrações e robôs para mensagens automáticas 
  - [Zapier](https://zapier.com/) - Integração rápida e fácil  a muitas APIs do mercado facilitando os serviços de produção.
+ 
+ 
+ 
+ Fontes: 
+ https://github.com/BrightCanopy/startup-tools
