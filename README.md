@@ -19,5 +19,5 @@ Para sugerir novas adições ou alterações: [open an issue](https://github.com
  
  
  
- Fontes: 
+ Fork: 
  https://github.com/BrightCanopy/startup-tools
