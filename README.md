@@ -4,7 +4,9 @@ Esta é uma  lista de empresas e produtos que fornecem produtos e serviços úte
 Para sugerir novas adições ou alterações: [open an issue](https://github.com/lmc275/startup-tools/issues) ou criar um [pull request](https://github.com/lmc275/startup-tools/compare). 
 
 
- - [Amazon Web Services](https://aws.amazon.com) - É o canivete suíço de serviços em nuvem. Faz quase tudo, mas pode não ser a melhor ferramenta para quem está começando sozinho.
+ - [Amazon Web Services](https://aws.amazon.com) - É o canivete suíço de serviços em nuvem. Faz quase tudo, mas pode não ser a melhor ferramenta para quem está começando sozinho. 
+ - [Conta Azul](https://www.contaazul.com/) - Uma ótima ferramenta para gestão de sua startup, com preços acessível
+muito mais simples, rápida e eficiente
  - [Clerky](https://www.clerky.com/) - Serviços de incorporação com um foco em startups, pode ajudar muito seu financeiro.
  - [Heroku](https://www.heroku.com) - Hospedagem nas Nuvens (Ruby  Java  Node.js  Python  PHP Clojure  Scala) com a gestão do ciclo de vida e muitos mas muitos plug-ins!
  - [Google Apps](https://www.google.com/work/apps/business) - Documentos colaborativos, planilhas, e-mail e muito mais.
